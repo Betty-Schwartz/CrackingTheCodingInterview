@@ -7,7 +7,7 @@ package Chapter1;
 
 public class UniqueCharacterString {
 	
-	private boolean doesStringContainUniqueCharacters(String testString){
+	public boolean doesStringContainUniqueCharacters(String testString){
 		if (testString.length() > 256){
 			return false;
 		}

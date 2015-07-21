@@ -8,7 +8,9 @@ public class UniqueCharacterStringTest {
 
 	@Test
 	public void test() {
-		fail("Not yet implemented");
+		UniqueCharacterString firstTest = new UniqueCharacterString(); 
+//		assertFalse(firstTest.doesStringContainUniqueCharacters("betty"));
+		assertTrue(firstTest.doesStringContainUniqueCharacters("Samuel"));
 	}
 
 }
