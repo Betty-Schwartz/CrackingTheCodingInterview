@@ -1,4 +1,4 @@
-package Chapter1;
+package chapter1;
 
 /* Implement an algorithm to determine if an ASCII string contains unique characters. 
  * This assumes there are only 256 unique characters which might not be true in some 
